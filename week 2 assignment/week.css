@@ -1,0 +1,56 @@
+.header {
+    text-align: center;
+    font-size: medium;
+    justify-content: center;
+    margin: 10px;
+    width: 100%;
+    height: auto;
+}
+html {
+    border: 80%;
+    width: 60%;
+    height: auto;
+    border-color: black;
+    background-color:none;
+    
+}
+fieldset {
+    border-left: 100px;
+    border-right: 100px;
+}
+
+.payment_logo {
+    width: 100px;
+    height: 50x;
+    text-align: left;
+    border-top: none;
+    border-bottom: none;
+}
+h2 {
+    background-color: aquamarine;
+    width: 100%;
+    height: 30px;
+}
+tfoot{
+    width: 100%;
+    height: 100%;
+    border-left: 0px;
+    border-right: 50px;
+    border-color: none;
+    background-color: blanchedalmond;
+    font-size: larger;
+    
+}
+div>button {
+background-color: blue;
+font-size: larger;
+text-align: center;
+display: flex;
+border: 10%;
+}
+.iphone {
+    display: flex;
+    border: 100%;
+    text-align: center;
+}
+
